@@ -2,9 +2,9 @@
 Desafío del conversor de moneda del programa ONE de Alura Latam y Oracle. Formación "Java Orientado a Objetos". 
 
 **EJEMPLO DE USO**
+[Challenge Conversor de moneda](https://youtu.be/Ham1LhTIVVM).
 
-
-Este es un proyecto de conversor de moneda implementado en Java, que permite convertir entre varias monedas utilizando la API de ExchangeRate-API (https://www.exchangerate-api.com/). El programa ofrece una interfaz de consola donde el usuario puede elegir entre varias opciones de conversión, como convertir de Peso Mexicano a Dólar, Dólar a Euro, entre otros. Esta API contiene diversas tasas de intercambio de diversas monedas, por simplicidad, únicamente se implementaron las siguientes opciones: 
+Este es un proyecto de conversor de moneda implementado en Java, que permite convertir entre varias monedas utilizando la [API de ExchangeRate-API](https://www.exchangerate-api.com/). El programa ofrece una interfaz de consola donde el usuario puede elegir entre varias opciones de conversión, como convertir de Peso Mexicano a Dólar, Dólar a Euro, entre otros. Esta API contiene diversas tasas de intercambio de diversas monedas, por simplicidad, únicamente se implementaron las siguientes opciones: 
 
 - Peso mexicano → Dólar
 - Dólar → Peso Mexicano
